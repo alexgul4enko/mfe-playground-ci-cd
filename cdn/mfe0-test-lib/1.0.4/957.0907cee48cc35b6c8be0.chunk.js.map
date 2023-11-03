@@ -1,0 +1,1 @@
+{"version":3,"file":"957.0907cee48cc35b6c8be0.chunk.js","mappings":"0HAAO,SAASA,IACd,MAAO,gBACT,C","sources":["webpack://v1698878071512/./src/app/get-user.tsx"],"sourcesContent":["export function getUser() {\n  return 'Alex Gulchenko'\n}\n\nexport default getUser\n"],"names":["getUser"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkv1698877181138=globalThis.webpackChunkv1698877181138||[]).push([[957],{957:(e,u,h)=>{function l(){return"Alex Gulchenko"}h.r(u),h.d(u,{getUser:()=>l})}}]);
+//# sourceMappingURL=957.79a845f10b71a7747ebc.chunk.js.map
